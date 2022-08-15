@@ -9,3 +9,6 @@ Ask the user to enter his/her name as input.
 female, and if the gender input is not correct alert the welcoming message without the title, according to the
 confirmation.
 ○ You have to work on the styling of the task.
+
+live link :
+https://rashedalmayyas.github.io/js-task-1-2/
